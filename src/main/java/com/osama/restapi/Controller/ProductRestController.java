@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 
 @RestController
-public class PrRestController {
+public class ProductRestController {
 
     @Autowired
     ProductRepository repository;
