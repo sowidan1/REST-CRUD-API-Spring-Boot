@@ -1,4 +1,4 @@
-package com.osama.restapi.demo;
+package com.osama.restapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
